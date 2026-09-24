@@ -55,6 +55,10 @@ header {
   display: flex;
 }
 
+.name {
+  cursor: pointer;
+}
+
 .content {
   display: flex;
   /* padding: 10px; */
